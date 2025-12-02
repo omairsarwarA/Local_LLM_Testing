@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+sqlalchemy
+pandas
+openpyxl
+streamlit
